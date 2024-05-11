@@ -1,4 +1,4 @@
-# Selenium-Bot-for-LinkedIn-Job-Search-Scraping
+# LinkedIn-Job-Search-Bot
 
 A selenium bot to scrape LinkedIn for job search results.\
 The bot uses chrome driver to perform the scraping process, other web browsers will be added in upcoming versions.
